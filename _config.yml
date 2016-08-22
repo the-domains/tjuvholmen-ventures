@@ -1,4 +1,3 @@
-layout_spectrum: 0.9695275102276355
 typography_spectrum: 0.5191229307092726
 color:
   brandStrength: 0.9870361983776093
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.9695275102276355
 name: Tjuvholmen Ventures
+description: Fueling the Scandinavian startup scene
