@@ -1,4 +1,3 @@
-layout_spectrum: 0.342036658199504
 typography_spectrum: 0.5718171088956296
 color:
   brandStrength: 0.7784295312594622
@@ -11,12 +10,16 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.342036658199504
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6796e988-c96d-41cd-947e-c24e869fa284.png
 name: Tjuvholmen Ventures
 navigation:
   - name: Tjuvholmen Ventures Homepage
     url: tjuvholmenventures.no
+    type: external
+  - name: Venture Homepage
+    url: 'http://www.tjuvholmenventures.no'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cc5d707-d630-43d1-ad6a-75e87c121034.ico
