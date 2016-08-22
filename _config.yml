@@ -15,9 +15,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6796e988-c96d-41cd-947e-c24e869fa284.png
 name: Tjuvholmen Ventures
 navigation:
-  - name: Tjuvholmen Ventures Homepage
-    url: tjuvholmenventures.no
-    type: external
   - name: Venture Homepage
     url: 'http://www.tjuvholmenventures.no'
     type: external
