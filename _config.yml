@@ -1,16 +1,16 @@
 layout_spectrum: 0.342036658199504
-typography_spectrum: 0.04996187658980489
+typography_spectrum: 0.5718171088956296
 color:
-  brandStrength: 0.8603386806789786
-  lightness: 0.8772901792544872
-  saturation: 0.754078141413629
-  rhythmicContrast: 0.19732106407172978
+  brandStrength: 0.7784295312594622
+  lightness: 0.19835806638002396
+  saturation: 0.4466168824583292
+  rhythmicContrast: 0.4238076191395521
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6796e988-c96d-41cd-947e-c24e869fa284.png
 name: Tjuvholmen Ventures
